@@ -1,4 +1,6 @@
 # Semi-Automatic-Construction-of-Prerequisite-Graphs-Dataset
+Training youtube video subtitle dataset
+
 The dataset used for prerequisite evaluation on Computer Science Domain.
 
 The format is as follows: 
