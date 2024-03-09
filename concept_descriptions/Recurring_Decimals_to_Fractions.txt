@@ -1,0 +1,25 @@
+Recurring Decimals to Fractions
+
+Recurring decimals, also known as repeating decimals, are decimal numbers that contain a digit or group of digits that repeat indefinitely. A simple example would be 0.3333… where the number 3 repeats indefinitely. Similarly, 0.272727… is a recurring decimal where the group of digits, 27, repeats indefinitely. Converting these recurring decimals to fractions can simplify calculations and provide a more accurate representation of the number. 
+
+The process of converting recurring decimals to fractions involves a few steps. Let's illustrate this with an example, say we want to convert the recurring decimal 0.666... to a fraction. 
+
+First, we assign a variable to the recurring decimal, like x = 0.666... 
+
+Next, we multiply both sides of the equation by a power of 10 that shifts the decimal point to the right of the repeating part. In this case, we multiply by 10 to get 10x = 6.666... 
+
+Then, we subtract the original equation from this new equation to eliminate the decimal part. In this case, 10x - x = 6.666... - 0.666... simplifies to 9x = 6. 
+
+Finally, we solve for x by dividing both sides of the equation by 9 to get x = 6/9. Simplifying the fraction gives us x = 2/3. Therefore, the recurring decimal 0.666... is equivalent to the fraction 2/3.
+
+For a recurring decimal where a group of digits repeats, the process is slightly more complex. Let's consider the recurring decimal 0.272727... 
+
+First, we assign a variable to the recurring decimal, like y = 0.272727... 
+
+Next, we multiply both sides of the equation by a power of 10 that shifts the decimal point to the right of the repeating part. In this case, we multiply by 100 to get 100y = 27.272727... 
+
+Then, we subtract the original equation from this new equation to eliminate the decimal part. In this case, 100y - y = 27.272727... - 0.272727... simplifies to 99y = 27. 
+
+Finally, we solve for y by dividing both sides of the equation by 99 to get y = 27/99. Simplifying the fraction gives us y = 3/11. Therefore, the recurring decimal 0.272727... is equivalent to the fraction 3/11.
+
+In conclusion, converting recurring decimals to fractions is a straightforward process that involves setting up an equation, multiplying by a power of 10 to shift the decimal point, subtracting to eliminate the decimal part, and solving for the variable. This process can be used to convert any recurring decimal, whether it involves a single repeating digit or a group of repeating digits, into a fraction. This conversion is useful in many areas of mathematics and can make calculations simpler and more accurate.

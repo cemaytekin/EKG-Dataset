@@ -1,0 +1,15 @@
+Written addition is a mathematical operation that involves the process of adding two or more numbers on paper, rather than mentally. This operation is fundamental to arithmetic and is often taught in primary schools as one of the first mathematical concepts. Understanding written addition is crucial for learning more complex mathematical operations such as subtraction, multiplication, and division.
+
+In written addition, numbers are aligned vertically by place value, i.e., ones are placed under ones, tens under tens, hundreds under hundreds, and so forth. This alignment is crucial because it ensures that each digit is added to its corresponding digit in the other number(s). 
+
+To perform written addition, you start from the rightmost place value, which is usually the ones place. If the sum of the digits in this place is less than ten, you write it down. If the sum is ten or more, you write down the digit in the ones place of the sum and carry the digit in the tens place over to the next column on the left, which is the tens place.
+
+For instance, if you're adding 456 and 378, you would first add 6 (from 456) and 8 (from 378). The sum, 14, is more than ten. So, you write down 4 (the ones place of the sum) and carry 1 (the tens place of the sum) over to the tens place. 
+
+Next, you add the digits in the tens place, including any digit you carried over from the ones place. In this case, you would add 5 (from 456), 7 (from 378), and 1 (carried over from the ones place), giving a sum of 13. Again, you write down 3 and carry 1 over to the hundreds place.
+
+Finally, you add the digits in the hundreds place, including any digit you carried over from the tens place. In this case, you would add 4 (from 456), 3 (from 378), and 1 (carried over from the tens place), giving a sum of 8. Since this sum is less than ten, you write down the whole sum. So, the total sum of 456 and 378 is 834.
+
+It's important to note that in cases where you're adding more than two numbers, or numbers with different numbers of digits, the process remains the same. You still align the numbers by place value, add each column starting from the right, and carry over any sum that is ten or more to the next column on the left.
+
+In conclusion, written addition is a fundamental mathematical operation that involves adding numbers on paper. It requires understanding of place value and the ability to add digits and carry over sums that are ten or more. While it may seem simple, it is a crucial skill that forms the basis for understanding more complex mathematical operations.

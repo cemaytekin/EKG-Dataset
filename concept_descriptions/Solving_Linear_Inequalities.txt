@@ -1,0 +1,19 @@
+Solving Linear Inequalities: A Comprehensive Overview
+
+Linear inequalities are mathematical expressions that involve inequality symbols. These symbols include less than (<), greater than (>), less than or equal to (≤), and greater than or equal to (≥). Solving linear inequalities is a fundamental concept in algebra and calculus, and it's essential in various fields such as economics, physics, engineering, and computer science. 
+
+A linear inequality looks similar to a linear equation, but instead of an equals sign (=), it uses an inequality symbol. For instance, 2x + 3 > 7 is an example of a linear inequality. The process of solving linear inequalities is very similar to that of solving linear equations, with a few additional rules regarding the inequality symbols.
+
+To solve a linear inequality, we follow a series of steps. The first step is to simplify the inequality by eliminating any parentheses and combining like terms. For example, if we have the inequality 3(2x + 1) - 4 > 2, we simplify it to 6x + 3 - 4 > 2, and further to 6x - 1 > 2.
+
+The next step is to isolate the variable on one side of the inequality. We do this by performing the same operations on both sides of the inequality to maintain balance. If we add or subtract a number from both sides, the direction of the inequality stays the same. For example, adding 1 to both sides of the inequality 6x - 1 > 2 gives us 6x > 3.
+
+However, when we multiply or divide both sides of the inequality by a positive number, the inequality's direction remains the same, but if we multiply or divide by a negative number, the inequality's direction changes. For instance, dividing both sides of the inequality 6x > 3 by 6 gives us x > 0.5, but if we have -x > -3 and we multiply both sides by -1, the inequality changes to x < 3.
+
+Once the variable is isolated, the solution to the inequality is all the values that make the inequality true. For example, in the inequality x > 0.5, any number greater than 0.5 will make the inequality true, so the solution is x > 0.5.
+
+In some cases, we might have to deal with compound inequalities, which involve two inequalities connected by the word 'and' or 'or'. For 'and', the solution is the intersection of the solutions of the two inequalities, while for 'or', the solution is the union of the solutions.
+
+Graphing the solution on a number line can help visualize the solution set. For instance, for the inequality x > 0.5, we would draw a number line, place a dot at 0.5, and shade everything to the right of the dot, indicating that all these numbers are part of the solution.
+
+Solving linear inequalities can sometimes be complex, but understanding the basic principles, rules, and steps makes it manageable. Remember to simplify the inequality first, isolate the variable, and then determine the solution. Also, keep in mind the rules about changing the direction of the inequality when multiplying or dividing by a negative number. With practice, solving linear inequalities can become second nature.

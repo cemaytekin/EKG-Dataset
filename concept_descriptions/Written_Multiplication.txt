@@ -1,0 +1,17 @@
+Written multiplication is a fundamental mathematical operation that is taught in elementary schools. It is a method used to multiply two or more numbers together. This operation is used in various fields such as science, engineering, business, and everyday life. Understanding the concept of written multiplication is essential for solving complex mathematical problems.
+
+The process of written multiplication involves multiple steps. It starts with setting up the problem, then multiplying and adding. The first step in written multiplication is to write the numbers one below the other in columns. The number at the bottom is the one that you are multiplying by, known as the multiplier, and the number at the top is the one being multiplied, known as the multiplicand.
+
+The multiplication process begins from the rightmost digit of the multiplier. This digit is multiplied by each digit of the multiplicand, starting from the right and moving to the left. The product of this multiplication is then written under the line below the multiplicand and multiplier. If the product is a two-digit number, the tens place is carried over to the next multiplication. 
+
+After multiplying all the digits, if there is a carried number, it is written at the beginning of the product. This completes the multiplication with the first digit of the multiplier. If the multiplier has more than one digit, the process is repeated with the next digit, but this time, the product is written one place to the left. This is because we are now multiplying by a number in the tens place.
+
+Once all the digits of the multiplier have been used, the next step is to add up all the rows of numbers. This sum is the final product of the multiplication operation. 
+
+Let's consider an example: Multiply 23 by 45. 
+
+Here, 23 is the multiplicand and 45 is the multiplier. First, multiply 5 (the rightmost digit of the multiplier) by 3 and then by 2 to get 115. Write this number under the line. Next, multiply 4 (the next digit of the multiplier) by 3 and then by 2 to get 092, but write this number one place to the left because we are multiplying by a number in the tens place. Now, add 115 and 920 to get the final product, 1035.
+
+It's important to note that the process of written multiplication requires a strong understanding of basic multiplication facts and addition. It also involves the concept of place value, as the digits in different places of the number have different values. 
+
+In conclusion, written multiplication is a key mathematical operation that allows us to multiply larger numbers efficiently. This method, although might seem complex at first, becomes easy with practice. It is a fundamental skill that forms the basis for many mathematical concepts and real-world applications. Hence, mastering written multiplication is crucial for anyone seeking to be proficient in mathematics.

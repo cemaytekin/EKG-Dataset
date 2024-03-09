@@ -1,0 +1,15 @@
+Repeated percentages and compound interest are two important concepts in mathematics, particularly in finance and investment, that are often misunderstood. Both involve the process of repeatedly applying a percentage increase or decrease to a value, but they operate in slightly different ways.
+
+Firstly, let's look at repeated percentages. This concept involves applying the same percentage increase or decrease to a value repeatedly over a certain period. For example, if you have $100 and you increase it by 10% each year, you will have $110 after the first year, $121 after the second year, $133.1 after the third year, and so on. This is because the 10% increase is applied to the new total each time, not just the original $100. 
+
+In mathematics, this is expressed as the formula A = P(1 + r/n)^(nt), where A is the amount of money accumulated after n years, including interest, P is the principal amount (the initial amount of money), r is the annual interest rate (in decimal), n is the number of times that interest is compounded per year, and t is the time the money is invested or borrowed for, in years. 
+
+This brings us to the concept of compound interest, which is a specific type of repeated percentage. Compound interest is the interest on a loan or deposit calculated based on both the initial principal and the accumulated interest from previous periods. It is contrasted with simple interest, where interest is only calculated on the initial principal. 
+
+In the context of savings and investments, compound interest is often referred to as 'earning interest on your interest'. This is because as interest is added to your account, future interest calculations are based on the larger total, so you earn more interest. This can result in exponential growth of your investment over time, particularly if the interest is compounded frequently. 
+
+For example, if you deposit $1000 in a bank account with an annual interest rate of 5% compounded annually, after the first year you would earn $50 in interest, giving you a total of $1050. In the second year, you would earn 5% of $1050, which is $52.50, giving you a total of $1102.50, and so on. 
+
+However, the frequency of compounding can significantly affect the amount of interest earned. If the same account compounded interest semi-annually, quarterly, or monthly, you would earn more interest over the same period. This is because more frequent compounding results in interest being added to the account more often, so there is a larger balance for future interest calculations.
+
+In conclusion, repeated percentages and compound interest are powerful mathematical concepts that can result in significant increases in value over time. They are particularly relevant in the world of finance and investment, where understanding how they work can help individuals make informed decisions about their money. Whether it's deciding how to invest your savings, or understanding the long-term cost of a loan, these concepts play a crucial role. However, it's important to remember that while they can lead to exponential growth, they can also lead to exponential debt if not managed carefully.

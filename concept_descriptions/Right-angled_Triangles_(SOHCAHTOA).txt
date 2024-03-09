@@ -1,0 +1,17 @@
+Right-angled triangles, also known as right triangles, are a fundamental concept in trigonometry, a branch of mathematics that deals with the relationships between the angles and sides of triangles. The term SOHCAHTOA is a mnemonic device used to remember the definitions of the sine, cosine, and tangent of an angle in a right triangle.
+
+The term SOHCAHTOA is an acronym, where each letter stands for a specific mathematical operation. 'SOH' stands for Sine equals Opposite over Hypotenuse, 'CAH' stands for Cosine equals Adjacent over Hypotenuse, and 'TOA' stands for Tangent equals Opposite over Adjacent.
+
+In a right-angled triangle, the hypotenuse is the longest side and it is always opposite the right angle. The other two sides are referred to as the opposite and adjacent sides. The 'opposite' side is the one opposite to the angle of interest, while the 'adjacent' side is the one next to the angle of interest.
+
+The sine (sin) of an angle in a right triangle is defined as the ratio of the length of the side opposite the angle to the length of the hypotenuse. Thus, if you have a right triangle and you know the lengths of the hypotenuse and the side opposite the angle, you can calculate the sine of the angle using the formula sin = opposite/hypotenuse. This is what 'SOH' in SOHCAHTOA stands for.
+
+The cosine (cos) of an angle in a right triangle is defined as the ratio of the length of the side adjacent to the angle to the length of the hypotenuse. Thus, if you know the lengths of the hypotenuse and the side adjacent to the angle, you can calculate the cosine of the angle using the formula cos = adjacent/hypotenuse. This is what 'CAH' in SOHCAHTOA stands for.
+
+The tangent (tan) of an angle in a right triangle is defined as the ratio of the length of the side opposite the angle to the length of the side adjacent to the angle. Thus, if you know the lengths of the sides opposite and adjacent to the angle, you can calculate the tangent of the angle using the formula tan = opposite/adjacent. This is what 'TOA' in SOHCAHTOA stands for.
+
+SOHCAHTOA is a powerful tool for solving problems involving right triangles. For example, if you know the lengths of two sides of a right triangle, you can use SOHCAHTOA to find the measures of the angles. Conversely, if you know the measure of one angle and the length of one side, you can use SOHCAHTOA to find the lengths of the other sides.
+
+In addition to its uses in trigonometry, SOHCAHTOA is also used in physics, engineering, computer graphics, and many other fields where it's necessary to calculate angles or distances. Despite its simplicity, it's a cornerstone of many advanced mathematical and scientific concepts.
+
+To sum up, SOHCAHTOA is a mnemonic that helps us remember how to use the sine, cosine, and tangent ratios to solve problems involving right triangles. It's a fundamental concept in trigonometry, and a powerful tool for solving a wide range of mathematical and scientific problems.

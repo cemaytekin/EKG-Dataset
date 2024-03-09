@@ -1,0 +1,17 @@
+Sketching from factorised form is a fundamental concept in mathematics, particularly in algebra and calculus. This concept involves the process of drawing or sketching a graph of a function or equation that has been factorised. Factorisation is the process of breaking down a complex expression into simpler factors that can be easily understood and manipulated. 
+
+In mathematical terms, a factor is a number or expression that divides another number or expression evenly. For example, the factors of 6 are 1, 2, 3 and 6. In algebra, factors are often expressions themselves. For instance, the expression x^2 - 4 can be factorised into (x - 2)(x + 2). 
+
+When sketching from factorised form, the first step is to factorise the given function or equation. This involves identifying the factors that, when multiplied together, give the original function. Once the function has been factorised, the next step is to identify the roots or zeros of the function. These are the values of x that make the function equal to zero. The roots of a function are important because they represent the x-intercepts of the graph of the function, i.e., the points where the graph crosses the x-axis. 
+
+To find the roots of a factorised function, set each factor equal to zero and solve for x. For example, if the factorised form of a function is (x - 2)(x + 2), the roots are x = 2 and x = -2. These are the points where the graph of the function crosses the x-axis. 
+
+Once the roots have been identified, the next step in sketching from factorised form is to determine the overall shape of the graph. This can be done by analysing the degree of the function and the signs of the coefficients. 
+
+If the highest power of x in the function is even, the graph will be a parabola that opens upwards if the leading coefficient is positive, and downwards if it is negative. If the highest power is odd, the graph will be a curve that starts in the third quadrant and ends in the first quadrant if the leading coefficient is positive, and starts in the second quadrant and ends in the fourth quadrant if it is negative. 
+
+In addition, the number of factors in the factorised form of the function can give clues about the number of turns or bends in the graph. A function with two factors will have a graph with one bend, a function with three factors will have a graph with two bends, and so on. 
+
+After determining the overall shape of the graph, the final step in sketching from factorised form is to plot the roots on the x-axis and sketch the graph. Start by drawing the x and y axes and marking the roots on the x-axis. Then, draw the graph based on the shape determined earlier, making sure that the graph passes through the roots. 
+
+In conclusion, sketching from factorised form is a systematic process that involves factorising the function, identifying the roots, determining the overall shape of the graph, and finally sketching the graph. This process can be used to graph a wide variety of functions, making it a powerful tool in algebra and calculus.

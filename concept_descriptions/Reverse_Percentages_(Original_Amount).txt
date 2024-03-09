@@ -1,0 +1,19 @@
+Reverse percentages, or original amount calculations, are a mathematical concept that involves determining the original amount or value before a percentage change occurred. This is a common concept in various fields, including finance, business, economics, and statistics. It is often used to calculate the original price before a discount or markup, the initial population size before growth or decline, or the original amount before tax or interest.
+
+To understand reverse percentages, it is important to first understand the concept of percentages. A percentage is a way of expressing a proportion or a fraction of a whole. It is represented by the "%" symbol and means "out of 100". For instance, 50% represents half or 50 out of 100.
+
+Now, let's delve into the concept of reverse percentages. Suppose you have a product that originally costs $100. If the product is on a 20% discount, it now costs $80. But what if you only know the discounted price and the discount rate? How do you find out the original price? This is where reverse percentages come in.
+
+The process of calculating the original amount using reverse percentages involves dividing the final amount by 1 minus the percentage decrease (for discounts) or 1 plus the percentage increase (for markups). In the above example, you would divide $80 by 1 minus 20% (or 0.80) to get the original price of $100.
+
+Here's the general formula for reverse percentages:
+
+Original Amount = Final Amount / (1 - Percentage Decrease) or Original Amount = Final Amount / (1 + Percentage Increase)
+
+It's important to note that the percentage decrease or increase should be expressed as a decimal in these formulas. That means you need to divide the percentage by 100 before using it in the formula. For instance, 20% would be 0.20 as a decimal.
+
+In addition to calculating original prices, reverse percentages can also be used to calculate original values in other contexts. For example, if a population of animals decreases by 15% to 4500, you can use reverse percentages to find the original population size. In this case, you would divide 4500 by 1 minus 15% (or 0.85) to get an original population size of approximately 5294.
+
+Reverse percentages are also useful in financial contexts. For instance, if you know the final amount of an investment after interest has been applied and the rate of interest, you can use reverse percentages to find the original investment amount. Similarly, if you know the amount of a product after tax has been added and the tax rate, you can use reverse percentages to calculate the original price before tax.
+
+In conclusion, reverse percentages are a powerful tool for calculating original amounts before a percentage change occurred. Whether you're working with discounts, markups, population changes, interest, or taxes, understanding how to use reverse percentages can help you solve a wide range of problems. It's a concept that requires a good understanding of percentages and basic algebra, but once mastered, it can be incredibly useful in both academic and real-world contexts.

@@ -1,0 +1,19 @@
+Written division is a mathematical method used to divide large numbers that cannot be easily divided in one's head. It is a fundamental concept in arithmetic, which forms the basis for more complex mathematical operations. Understanding written division is crucial for solving problems in mathematics and other related fields.
+
+Written division involves the use of a division bar, also known as a long division symbol, which separates the dividend (the number to be divided) from the divisor (the number by which the dividend is divided). The quotient (the result of the division) is written above the bar.
+
+The process of written division starts with dividing the first digit or the first few digits of the dividend by the divisor. If the first digit of the dividend is less than the divisor, then you would consider the first two or more digits until you have a number that is greater than or equal to the divisor. 
+
+After dividing, the next step is to write the result or quotient above the line and multiply it by the divisor. The product is then subtracted from the number you used from the dividend. This process is known as "multiply, subtract, bring down". 
+
+If the divisor cannot be subtracted from the number formed from the dividend, a zero is written in the quotient and the next digit of the dividend is brought down. This process is repeated until all the digits of the dividend have been brought down. 
+
+The remainder is the number left after all the digits of the dividend have been brought down and subtracted. If there is no remainder, it means the dividend is completely divisible by the divisor. If there is a remainder, it is usually written as a fraction where the remainder is the numerator and the divisor is the denominator.
+
+It is important to note that the divisor must not be zero, as division by zero is undefined in mathematics. Also, the numbers used in written division can be either positive or negative. If both numbers are positive or both are negative, the quotient is positive. If one number is positive and the other is negative, the quotient is negative.
+
+Written division is a step-by-step process that requires a good understanding of basic arithmetic operations like subtraction and multiplication. It also requires careful attention to detail as a mistake in any step can lead to an incorrect result. 
+
+Practicing written division helps to improve numerical skills and mathematical reasoning. It also provides a solid foundation for learning more complex mathematical concepts and techniques. For instance, the concept of written division is used in algebra for dividing polynomials, a topic that is often covered in high school and college mathematics courses.
+
+In conclusion, written division is a fundamental concept in mathematics that is used for dividing large numbers. It involves a step-by-step process of dividing, multiplying, subtracting, and bringing down digits. Understanding and mastering written division is crucial for success in mathematics and related fields.

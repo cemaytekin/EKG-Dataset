@@ -1,0 +1,22 @@
+Written subtraction, also known as column subtraction, is a mathematical method used for subtracting large numbers. It is a step-by-step process that breaks down the task into smaller, more manageable parts. This process is often taught in elementary schools as a fundamental arithmetic operation and is a crucial skill for solving more complex mathematical problems.
+
+The process of written subtraction involves arranging the numbers in columns according to their place value. This means that the ones are under the ones, the tens are under the tens, the hundreds are under the hundreds, and so on. This makes it easier to subtract the numbers systematically from right to left, starting from the ones place.
+
+Let's illustrate this with an example: Suppose we want to subtract 345 from 567. The first step is to write the numbers in column form:
+
+567
+-345
+
+Starting from the rightmost column (ones place), we subtract the bottom number from the top one. In this case, we subtract 5 from 7, which gives us 2. We then move to the next column (tens place), where we subtract 4 from 6, resulting in 2. Finally, we subtract 3 from 5 in the hundreds place, also resulting in 2. Therefore, 567 - 345 equals 222.
+
+However, it's not always as straightforward. Sometimes, the top number in a column may be smaller than the bottom one, making subtraction impossible without borrowing from the next column. This is called regrouping.
+
+For example, if we want to subtract 48 from 63, we can't subtract 8 from 3. So, we borrow 1 (or 10 in the tens place) from the 6 in the tens place, making it 5. The 3 in the ones place then becomes 13 (3 + 10), and we can now subtract 8 from 13, which gives us 5. In the tens place, we subtract 4 from 5, giving us 1. Thus, 63 - 48 equals 15.
+
+When subtracting three-digit numbers or larger, the process remains the same. If necessary, we borrow from the next column to the left until we can subtract without issue. If the top number in the leftmost column is smaller than the bottom one, we simply put a negative sign in front of the result.
+
+Written subtraction is a critical skill that forms the basis for many mathematical concepts. It's not only used in school but also in everyday life, such as calculating change, determining distances, or balancing a checkbook.
+
+It's important to note that while written subtraction is a powerful tool, it's also essential to understand the underlying principles of subtraction. This includes knowing that subtraction is the inverse of addition, that the order of numbers matters in subtraction (unlike in addition), and that you can't subtract a larger number from a smaller one without going into negative numbers.
+
+In conclusion, written subtraction is a step-by-step method for subtracting larger numbers. It involves arranging the numbers in columns according to their place value, subtracting from right to left, and borrowing from the next column if necessary. It's a fundamental mathematical skill that's used in a wide range of contexts, both in school and in everyday life.
