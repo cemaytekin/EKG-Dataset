@@ -1,0 +1,23 @@
+Linear sequences, also known as arithmetic sequences, are a fundamental concept in mathematics, particularly in algebra and calculus. This concept is essential in understanding how numbers progress in a specific order and pattern. The 'nth term' of a linear sequence is a formula that allows us to find any term in the sequence without having to list all the preceding terms.
+
+A linear sequence is a sequence of numbers where the difference between any two successive numbers is constant. This constant difference is often referred to as the 'common difference'. For instance, in the sequence 2, 4, 6, 8, the common difference is 2. 
+
+The nth term of a linear sequence can be represented in a general form as an + b, where 'a' is the common difference, 'b' is the first term subtracted from the common difference, and 'n' is the position of the term in the sequence.
+
+To find the nth term of a linear sequence, we use the following steps:
+
+1. Identify the common difference of the sequence. This is done by subtracting any term in the sequence from the term that follows it.
+
+2. The common difference is the coefficient of 'n' in the nth term. 
+
+3. To find 'b', subtract the common difference from the first term of the sequence. 
+
+For example, let's find the nth term of the sequence 5, 8, 11, 14. The common difference (d) is 3 (8-5), hence 'a' in our nth term formula is 3. To find 'b', we subtract the common difference (3) from the first term (5), which gives us 2. Therefore, the nth term of the sequence is 3n + 2.
+
+The nth term is a very useful concept, especially when dealing with large sequences where it is impractical to write out all the terms. Once we know the nth term, we can find any term in the sequence without having to write out all the previous terms. 
+
+For example, if we want to find the 100th term of the sequence 5, 8, 11, 14, we don't need to write out all 100 terms. We can simply substitute n = 100 in the nth term 3n + 2, which gives us 3*100 + 2 = 302. So, the 100th term of the sequence is 302.
+
+Understanding the nth term of a linear sequence is not only crucial in mathematics but also in real-life applications. It is used in various fields such as physics, engineering, computer science, economics, and others to predict future events or to find patterns in data.
+
+In conclusion, a linear sequence is a sequence of numbers where the difference between any two successive numbers is constant. The nth term of a linear sequence is a formula that allows us to find any term in the sequence without having to list all the preceding terms. It is represented in the form an + b, where 'a' is the common difference and 'b' is the first term subtracted from the common difference. The concept of the nth term is fundamental in mathematics and has numerous real-life applications.

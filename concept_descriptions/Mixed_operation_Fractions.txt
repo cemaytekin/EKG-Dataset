@@ -1,0 +1,19 @@
+Mixed operation fractions is a mathematical concept that involves performing different operations, such as addition, subtraction, multiplication, and division, on fractions. Understanding this concept requires a deep understanding of fractions and the various operations that can be performed on them. 
+
+A fraction is a numerical quantity that represents a part of a whole. It consists of a numerator, which is the number above the line, and a denominator, which is the number below the line. The numerator represents the part that we are considering, while the denominator represents the total number of equal parts that make up the whole.
+
+In mixed operation fractions, we are often required to perform more than one operation on a set of fractions. This could involve adding two fractions and then multiplying the result by another fraction, or subtracting one fraction from another and then dividing the result by a third fraction.
+
+To be able to perform these operations successfully, one must first understand how each operation works with fractions.
+
+1. Addition and Subtraction: To add or subtract fractions, they must have the same denominator, also known as a common denominator. If the denominators are not the same, you would need to find the least common denominator (LCD), and then convert each fraction to an equivalent fraction with the LCD as the denominator. Once the fractions have the same denominator, you can add or subtract the numerators to get the answer.
+
+2. Multiplication: Multiplying fractions is straightforward. You simply multiply the numerators together to get the new numerator, and do the same with the denominators to get the new denominator.
+
+3. Division: Dividing fractions involves flipping (finding the reciprocal of) the second fraction and then multiplying it with the first fraction.
+
+It's important to remember the order of operations (BIDMAS/BODMAS) when performing mixed operations on fractions. BIDMAS stands for Brackets, Indices, Division and Multiplication (from left to right), Addition and Subtraction (from left to right). This means that any operation inside brackets should be done first, followed by indices (powers and square roots, etc.), then division and multiplication (from left to right), and finally addition and subtraction (from left to right).
+
+When dealing with mixed operation fractions, it can be helpful to simplify the fractions at each step of your calculations. This can make the numbers easier to work with and can help you to avoid errors.
+
+In conclusion, mixed operation fractions involve a combination of addition, subtraction, multiplication, and division on fractions. Understanding this concept requires a firm grasp of the basics of fractions and the individual operations. It's also important to remember the order of operations to ensure that you perform the operations in the correct sequence. With practice and understanding, mixed operation fractions can become a manageable part of mathematics.

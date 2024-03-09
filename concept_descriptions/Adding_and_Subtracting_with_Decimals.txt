@@ -1,0 +1,39 @@
+Adding and subtracting with decimals can seem intimidating at first glance, but once you understand the rules, it becomes a straightforward task. It is a fundamental topic in arithmetic and is widely used in various fields including science, engineering, business, and finance. In this text, we will delve into the details of adding and subtracting with decimals.
+
+First, let's define what decimals are. Decimals are a system of numbers that use the base ten. They include 'whole' numbers and 'parts' of numbers which are smaller than one. These smaller parts are represented by digits after a decimal point. For example, in the number 12.34, 12 is the whole number and .34 is the decimal part.
+
+Adding and subtracting decimals is similar to adding and subtracting whole numbers, with one key difference: the position of the decimal point. It is crucial to align the decimal points when performing these operations. Let's go through each operation in detail.
+
+Adding Decimals:
+
+When adding decimals, you should first write the numbers in a column format, ensuring that all the decimal points line up vertically. This is important because it ensures that you are adding equivalent place values i.e., tenths with tenths, hundredths with hundredths, and so on. 
+
+For example, if you want to add 3.45 and 2.6, you should write it as:
+
+3.45
++ 2.6
+
+To keep the decimal places aligned, you can add a zero to 2.6, making it 2.60. Now, you can add the numbers as you would add whole numbers, starting from the right (smallest place value). Remember to put the decimal point in the same place in your answer.
+
+3.45
++ 2.60
+------
+6.05
+
+Subtracting Decimals:
+
+Subtracting decimals is similar to adding decimals. Again, you need to align the decimal points. Write the numbers in a column, and if necessary, add zeros to ensure that each number has the same number of decimal places.
+
+For example, if you want to subtract 1.4 from 3.75, you should write it as:
+
+3.75
+- 1.4
+
+Again, add a zero to 1.4 to make it 1.40. Now you can subtract as you would with whole numbers, starting from the right. If you need to borrow, remember that you are borrowing tens, hundreds, or thousands, etc., not whole numbers.
+
+3.75
+- 1.40
+------
+2.35
+
+In conclusion, adding and subtracting decimals is similar to adding and subtracting whole numbers. The key is to keep the decimal points aligned. Practice is essential to mastering this skill. Start with simple problems and gradually move on to more complex ones. As with any mathematical operation, check your work when you're done to ensure accuracy. Remember, math is a progressive skill, the more you practice, the better you become. Don't be discouraged if you make mistakes, they are part of the learning process.

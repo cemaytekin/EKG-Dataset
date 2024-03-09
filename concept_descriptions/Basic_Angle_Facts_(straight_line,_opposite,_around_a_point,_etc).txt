@@ -1,0 +1,17 @@
+Angles are fundamental concepts in geometry and are used to define the shape, size, and position of geometric figures. An angle is formed when two lines or rays meet at a common point, known as the vertex. The size of an angle is measured in degrees (°), and it can vary from 0° to 360°. Understanding basic angle facts is essential in geometry, and this includes knowledge about straight line angles, opposite angles, angles around a point, and more.
+
+A straight line angle, also known as a straight angle, is an angle that measures exactly 180°. It forms a straight line, hence the name. This is the maximum degree measure an angle can have without returning back to its initial point. If an angle measures more than 180°, it's called a reflex angle. If it measures less, it can be an acute angle (less than 90°), a right angle (exactly 90°), or an obtuse angle (between 90° and 180°).
+
+Opposite angles, also known as vertical angles, are angles that are opposite each other when two lines intersect. They are called so because they are positioned across from each other at the intersection point. An interesting fact about opposite angles is that they are always equal. For example, if two lines intersect and form an angle of 60°, the angle directly across from it will also be 60°. This is a fundamental concept that is used in many proofs and problems in geometry.
+
+Angles around a point add up to 360°. This is because a point can be surrounded by a full circle, and a full circle is defined as 360°. This concept can be visualized by drawing a circle around a point and marking angles around the point. No matter how many angles you draw, as long as they all meet at the point and cover the full circle, their measures will always add up to 360°. This is another fundamental concept in geometry that is used in many different areas.
+
+There are also adjacent angles, which are two angles that share a common side and vertex but do not overlap. The sum of the measures of adjacent angles forming a straight line is 180°. This is known as the Angle Addition Postulate.
+
+Complementary angles are two angles whose measures add up to 90°. They don't have to be adjacent, but if they are, they form a right angle. Similarly, supplementary angles are two angles whose measures add up to 180°. If they are adjacent, they form a straight angle.
+
+Interior angles are angles formed inside a polygon. The sum of the interior angles of a polygon can be found using the formula (n-2) x 180°, where n is the number of sides of the polygon. For example, a triangle, which has three sides, has interior angles that add up to 180°.
+
+Exterior angles are angles formed outside a polygon by extending one of its sides. The sum of the exterior angles of any polygon is always 360°.
+
+In conclusion, understanding these basic angle facts is crucial for anyone studying geometry. They form the foundation for more complex concepts and are used in a wide variety of mathematical problems and proofs. Whether it's the straight line angles, opposite angles, angles around a point, or other types of angles, each has its unique properties and applications.

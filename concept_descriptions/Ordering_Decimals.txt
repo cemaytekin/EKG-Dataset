@@ -1,0 +1,28 @@
+Ordering decimals is an essential mathematical skill, particularly in areas such as finance, engineering, and science. This article aims to explain in detail how to order decimals, from the basic concept to the more intricate details.
+
+Decimals are a way of representing fractions or partial numbers. They are based on the concept of 'tens'. The decimal point is used to separate the whole number part from the fractional part. For example, in the number 12.34, 12 is the whole number part, and 34 is the fractional part. The first digit after the decimal point represents tenths, the second digit represents hundredths, and so on.
+
+To order decimals, we need to compare them and arrange them either in ascending (from least to greatest) or descending (from greatest to least) order. Let's start with a basic example: ordering the numbers 0.2, 0.12, and 0.3 in ascending order.
+
+Step 1: Look at the tenths place. The numbers in the tenths place are 2, 1, and 3. In ascending order, these would be arranged as 1, 2, 3. Therefore, 0.12 is the smallest, followed by 0.2, and then 0.3.
+
+However, things get a bit more complicated when the numbers have different numbers of decimal places. For example, how do we order 0.2, 0.12, and 0.215?
+
+Step 2: If the decimal numbers have different numbers of decimal places, we can make them the same length by adding zeroes to the end of the shorter numbers. This doesn't change their value. So, 0.2 becomes 0.200, and our numbers are now 0.200, 0.120, and 0.215.
+
+Step 3: Now we can compare the numbers digit by digit from left to right. We start with the tenths place again. The numbers are 2, 1, and 2. So, 0.120 is still the smallest. But now we have a tie between 0.200 and 0.215.
+
+Step 4: To break the tie, we move to the next decimal place - the hundredths place. The numbers are 0, 2, and 1. So, 0.215 is the next smallest, followed by 0.200.
+
+So, in ascending order, the numbers are 0.12, 0.215, and 0.2.
+
+The same method applies when ordering decimals in descending order. You compare the numbers digit by digit from left to right, but this time you're looking for the largest number at each step.
+
+Remember, when comparing decimals:
+
+- Always compare the same place value (tenths with tenths, hundredths with hundredths, etc.)
+- If the decimals are different lengths, add zeroes to the end of the shorter ones to make them the same length.
+- Start comparing from the left and move to the right.
+- The first digit that is different determines which number is larger or smaller.
+
+Ordering decimals is a crucial skill in mathematics. It helps us understand and compare different values, whether we're dealing with money, measurements, or scientific data. With practice, it becomes an easy and automatic process.

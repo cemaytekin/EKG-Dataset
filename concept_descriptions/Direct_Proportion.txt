@@ -1,0 +1,15 @@
+Direct proportion, also known as direct variation, is a fundamental concept in mathematics that expresses a relationship between two variables where the ratio of their values remains constant. In simpler terms, if one variable increases, the other also increases at the same rate, and vice versa. It is a concept that is often used in various fields such as physics, economics, and engineering to describe certain phenomena or relationships.
+
+The basic formula for direct proportion is: y = kx, where y and x are the two variables, and k is the constant of proportionality. This constant is the ratio between y and x, and it remains the same no matter what the values of y and x are. If you know the values of y and x in one situation, you can use the constant of proportionality to find the value of one variable given the other in a different situation.
+
+For example, let's say you're driving a car at a constant speed. The distance you travel (y) is directly proportional to the time you spend driving (x). If you drive for 2 hours and travel 100 miles, then the constant of proportionality (k) is 50 miles per hour. If you want to know how far you'll travel in 3 hours, you can use the formula: y = kx, or in this case, y = 50 * 3, which equals 150 miles.
+
+Direct proportion is often visualized on a graph as a straight line that passes through the origin (0,0). The slope of this line is equal to the constant of proportionality, k. This means that for every unit increase in x, there is a corresponding increase in y by the amount of k. 
+
+Furthermore, in a direct proportion, the product of the two variables is always constant. This can be expressed as xy = k. So, if you multiply the two variables together, you will always get the same number, which is the constant of proportionality. This is another way to check if two variables are in direct proportion.
+
+However, not all relationships between two variables are directly proportional. Sometimes, an increase in one variable may result in a decrease in the other, or the rate at which one variable changes may not be constant. These are examples of inverse proportion and non-linear relationships, respectively.
+
+It's also important to note that direct proportion is a specific type of linear relationship. While all directly proportional relationships are linear, not all linear relationships are directly proportional. A linear relationship can have a y-intercept that is not zero, whereas a directly proportional relationship always has a y-intercept of zero.
+
+In conclusion, direct proportion is a mathematical concept that describes a relationship between two variables where they increase or decrease at the same rate. It is represented by the formula y = kx, where k is the constant of proportionality. Understanding this concept is crucial for solving problems in various fields, and it forms the basis for more complex mathematical concepts.

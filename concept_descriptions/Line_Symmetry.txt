@@ -1,0 +1,15 @@
+Line symmetry, also known as reflection symmetry, is a fundamental concept in the field of geometry. It refers to the characteristic of a shape or design that allows it to be divided into two identical halves. When this happens, the two halves mirror each other along a line, known as the line of symmetry or axis of symmetry.
+
+Line symmetry can be found in various shapes and figures, including alphabets, numbers, and everyday objects. For example, the letter 'A' has a line of symmetry down its middle, creating two mirror-image halves. Similarly, a square has four lines of symmetry, each passing through its center and dividing it into two equal halves. On the other hand, an equilateral triangle has three lines of symmetry, each passing through a vertex and the midpoint of the opposite side.
+
+The concept of line symmetry is not limited to simple shapes; it extends to complex figures and patterns as well. For instance, a snowflake exhibits a high degree of line symmetry, with its intricate design repeating around a central point. Similarly, the iconic Taj Mahal in India demonstrates line symmetry, with its design being identical on either side of a central line.
+
+Line symmetry is a fundamental principle in many fields. In art and design, it is used to create balance and harmony. In architecture, it is used to create aesthetically pleasing and structurally sound buildings. In nature, it is observed in the design of many plants and animals. In mathematics, it is a core concept that underpins many theories and principles.
+
+In terms of mathematical notation, line symmetry is usually represented by a line over a shape or figure, indicating the line of symmetry. The line of symmetry can be vertical, horizontal, or diagonal, depending on the shape or figure.
+
+To determine if a shape or figure has line symmetry, one can perform a 'folding test.' This involves folding the shape or figure along a potential line of symmetry. If the two halves match up perfectly, then the shape or figure has line symmetry along that line.
+
+In addition to line symmetry, there are other types of symmetry as well, such as rotational symmetry and point symmetry. Rotational symmetry refers to the property of a shape or figure that allows it to look the same after a certain amount of rotation. Point symmetry, on the other hand, refers to the property of a shape or figure that allows it to look the same when viewed from opposite directions.
+
+In conclusion, line symmetry is a fascinating and fundamental concept in geometry. It refers to the property of a shape or figure that allows it to be divided into two identical halves along a line. This concept is widely used in various fields, including art, design, architecture, and mathematics. Understanding line symmetry can help us appreciate the beauty and complexity of the world around us.

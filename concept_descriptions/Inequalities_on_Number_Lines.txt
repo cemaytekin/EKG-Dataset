@@ -1,0 +1,17 @@
+Inequalities on Number Lines
+
+Inequalities on number lines is a mathematical concept that is used to visually represent and solve problems involving inequalities. It is a fundamental concept in mathematics and is often taught at the elementary level. Understanding inequalities on number lines is crucial for grasping more complex mathematical concepts in algebra, calculus, and beyond.
+
+Inequalities are mathematical expressions that describe the relationship between two quantities. They indicate that one quantity is greater than, less than, equal to, or not equal to another quantity. Inequality expressions are usually represented by the symbols < (less than), > (greater than), ≤ (less than or equal to), ≥ (greater than or equal to), and ≠ (not equal to).
+
+A number line is a visual representation of numbers placed in order on a straight line. In the context of inequalities, number lines are used to represent the set of all possible solutions to an inequality. For instance, if we have an inequality like x > 3, all numbers greater than 3 are solutions to the inequality. This can be represented on a number line by shading all numbers greater than 3.
+
+When graphing inequalities on a number line, we use open and closed circles to represent whether a number is included in the solution set or not. An open circle means that the number is not included in the solution set, while a closed circle means that the number is included. For instance, for the inequality x > 3, we would place an open circle at 3 and shade everything to the right of it. For the inequality x ≥ 3, we would place a closed circle at 3 and shade everything to the right of it.
+
+Inequalities can also be compound, meaning they involve more than one inequality. For example, the compound inequality 1 < x < 3 means that x is greater than 1 and less than 3. This can be represented on a number line by placing open circles at 1 and 3 and shading the region in between.
+
+It's also important to understand that inequalities can have infinite solutions. For example, the inequality x > 3 has an infinite number of solutions because there are infinitely many numbers greater than 3. This is represented on the number line by an arrow pointing to the right from 3, indicating that the solutions continue indefinitely.
+
+Inequalities on number lines are also used to solve problems involving absolute values. The absolute value of a number is its distance from zero on a number line. For instance, the inequality |x| < 3 means that the distance of x from zero is less than 3. This can be represented on a number line by shading the region between -3 and 3.
+
+In conclusion, inequalities on number lines is a powerful tool for understanding and solving mathematical problems. It allows us to visually represent the relationship between quantities and find solutions to inequalities. Whether you're learning basic arithmetic or studying advanced mathematics, understanding inequalities on number lines is a crucial skill to have.

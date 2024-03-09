@@ -1,0 +1,23 @@
+Factorising into a Single Bracket, also known as factoring or factorisation, is a fundamental concept in algebra that involves breaking down a complex expression into simpler, more manageable components. This process is the reverse of expanding brackets and is a crucial skill in simplifying algebraic expressions, solving equations, and understanding more complex mathematical concepts. 
+
+Factorising into a single bracket involves expressing a given algebraic expression as a product of its factors. A factor is a number or expression that divides another number or expression exactly, i.e., without leaving a remainder. In algebra, factorising often involves identifying common factors in the terms of an expression and then expressing the expression as a product of these factors.
+
+For instance, consider the expression 4x + 8. The common factor in both terms is 4. Therefore, we can factorise this expression by 'taking out' the common factor 4, which leaves us with 4(x + 2). Here, 4(x + 2) is the factorised form of the expression 4x + 8, and x + 2 is the content of the single bracket.
+
+The process of factorising into a single bracket can be summarised as follows:
+
+1. Identify the common factor(s) in all terms of the expression. This could be a numerical factor or a variable. In some cases, there may be more than one common factor.
+
+2. Divide each term in the expression by the common factor. This gives the content of the single bracket.
+
+3. Write the expression as the product of the common factor and the content of the single bracket. This is the factorised form of the expression.
+
+Factorising into a single bracket is an essential tool in solving equations. For example, if you have the equation 2x + 4 = 0, you can factorise the left-hand side to get 2(x + 2) = 0. This makes it clear that the solutions to the equation are x = 0 or x = -2.
+
+Moreover, factorising into a single bracket helps simplify complex expressions and makes them easier to handle. For instance, the expression 3x^2 + 6x can be factorised into 3x(x + 2), which is simpler and more manageable.
+
+Understanding how to factorise into a single bracket also lays the foundation for understanding more complex factorising techniques, such as factorising quadratic expressions and factorising by grouping. These techniques involve breaking down expressions into products of two or more factors and are essential in higher-level mathematics.
+
+In conclusion, factorising into a single bracket is a fundamental concept in algebra that involves expressing a given expression as a product of its factors. It is a crucial skill in simplifying algebraic expressions, solving equations, and understanding more complex mathematical concepts. Therefore, mastering this concept is essential for anyone studying algebra. 
+
+From the basic understanding of identifying common factors to the application in solving equations, factorising into a single bracket is a mathematical technique that serves as a building block for more complex algebraic manipulations. Hence, it is important to grasp this concept thoroughly and practice it regularly to develop a strong foundation in algebra.

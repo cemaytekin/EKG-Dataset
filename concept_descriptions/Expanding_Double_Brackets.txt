@@ -1,0 +1,15 @@
+Expanding Double Brackets is a mathematical concept that is often introduced in algebra. It is a crucial step in simplifying expressions and solving equations. This process involves applying the distributive property of multiplication over addition or subtraction to remove the brackets and simplify the expression. 
+
+To understand the process of expanding double brackets, it is essential to know about the distributive law. The distributive law states that for any numbers a, b, and c, the equation a * (b + c) = a * b + a * c holds true. This law is the foundation of expanding double brackets. 
+
+When we have an expression in double brackets such as (a + b)(c + d), we apply the distributive law to each term in the first bracket to each term in the second bracket. This means that 'a' is multiplied by 'c' and 'd', and 'b' is multiplied by 'c' and 'd'. The expanded form of the expression becomes ac + ad + bc + bd.
+
+Let's take a more concrete example. Consider the expression (x + 3)(x + 2). When we expand this using the rules we've just discussed, we get x*x (or x^2), x*2 (or 2x), 3*x (or 3x), and 3*2 (or 6). Adding these together, we get x^2 + 2x + 3x + 6. We can then simplify this further by combining like terms to get x^2 + 5x + 6.
+
+The process of expanding double brackets can also involve subtraction. For instance, if we have the expression (x - 4)(x + 2), we would follow the same process. This would give us x*x (x^2), x*2 (2x), -4*x (-4x), and -4*2 (-8). Adding these together, we get x^2 + 2x - 4x - 8, which simplifies to x^2 - 2x - 8.
+
+Expanding double brackets is not limited to binomial expressions (expressions with two terms). It can also be applied to expressions with more than two terms in each bracket. For example, the expression (x + y + z)(a + b) would be expanded to xa + xb + ya + yb + za + zb. 
+
+Expanding double brackets is a fundamental skill in algebra. It allows us to simplify complex expressions and make them easier to work with. It is also a stepping stone to more advanced algebraic techniques such as factorization and completing the square. 
+
+In conclusion, expanding double brackets is a mathematical process that involves applying the distributive law to each term in the first bracket to each term in the second bracket. This process simplifies the expression and makes it easier to solve or evaluate. Understanding this concept is crucial for anyone studying algebra, as it forms the basis for many other algebraic techniques.

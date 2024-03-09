@@ -1,0 +1,21 @@
+Percentages of an Amount
+
+Understanding percentages is a fundamental skill in mathematics and is used in a myriad of real-life situations such as calculating discounts, interest rates, tax, and more. The term "percentage" is derived from the Latin word "per centum," which means "by the hundred." Essentially, a percentage is a fraction of 100. 
+
+Calculating the percentage of an amount involves determining how much of a certain value fits into another given value. For instance, if we say 50% of 200, we are essentially finding out what half (50 out of 100) of 200 is. In this case, the answer is 100. 
+
+To calculate the percentage of an amount, you need to convert the percentage to a decimal or fraction, then multiply it by the given amount. For example, to find 20% of 500, you would first convert 20% to 0.20 (in decimal form) or 1/5 (in fraction form). Then, multiply 500 by 0.20 or 1/5 to get the answer, which is 100. 
+
+This process can be broken down into three steps:
+
+1. Convert the percentage into a decimal or fraction: To convert a percentage into a decimal, divide the percentage by 100. For instance, 20% becomes 0.20. To convert a percentage into a fraction, place the percentage over 100. For example, 20% becomes 20/100 or 1/5.
+
+2. Multiply the decimal or fraction by the given amount: After converting the percentage, the next step is to multiply the decimal or fraction by the given amount. Using the previous example, multiply 0.20 (or 1/5) by 500 to get 100.
+
+3. Interpret the result: The result you get is the percentage of the given amount. In this case, 100 is 20% of 500.
+
+Sometimes, you may need to find the total amount given a part and the percentage that the part represents. For instance, if 30 is 20% of a number, what is the number? In this case, you would divide the part (30) by the decimal form of the percentage (0.20) to get the total amount, which is 150.
+
+It's also important to understand that percentages can be greater than 100. For example, an increase of $20 from $50 is a 40% increase, but an increase of $60 is a 120% increase. This is because the increase is more than the original amount.
+
+In conclusion, understanding how to calculate percentages of an amount is a fundamental skill that is applicable in a variety of real-life situations. It involves converting the percentage to a decimal or fraction, multiplying it by the given amount, and interpreting the result. Whether you're calculating discounts, tax, interest rates, or any other percentage-based calculation, this skill is indispensable. Remember, practice is key in mastering how to calculate the percentage of an amount, so keep practicing until you become proficient at it.

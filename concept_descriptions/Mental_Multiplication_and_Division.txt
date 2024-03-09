@@ -1,0 +1,17 @@
+Mental multiplication and division are essential skills that everyone should master. They are not just mathematical concepts but practical tools that we use in our daily lives, from calculating expenses to determining the time it takes to complete tasks. Understanding these concepts can also help improve problem-solving skills and logical thinking.
+
+Mental multiplication is a method of multiplying numbers in your head without the use of paper, calculator, or other tools. It involves understanding the properties of numbers, such as the distributive, associative, and commutative properties, and applying them to perform calculations. For example, to multiply 25 by 4 mentally, you could break down 25 into 20 and 5, multiply each by 4 (80 and 20), and then add the results together to get 100.
+
+One of the most effective strategies for mental multiplication is the 'break down' method. This involves breaking down larger numbers into smaller, more manageable numbers. For example, if you need to multiply 18 by 3, you could break down 18 into 10 and 8. Multiply 10 by 3 to get 30, and 8 by 3 to get 24. Adding these two results gives you the answer, 54.
+
+Furthermore, knowing the multiplication tables up to 12 can significantly speed up mental calculations. This knowledge allows you to quickly recall the product of two single-digit numbers, which is often a step in more complex mental multiplication problems.
+
+Mental division, on the other hand, is the process of dividing numbers in your head. Like mental multiplication, it requires a good understanding of numbers and their properties. The process involves dividing the dividend (the number to be divided) by the divisor (the number by which the dividend is divided) piece by piece.
+
+For example, to divide 84 by 4 mentally, you could break down 84 into 80 and 4. Then, divide each part by 4 (20 and 1) and add the results together to get 21. The 'break down' method is also useful in mental division. For instance, to divide 96 by 3, you could break down 96 into 90 and 6. Divide 90 by 3 to get 30, and 6 by 3 to get 2. Adding these two results gives you the answer, 32.
+
+One key to successful mental division is understanding the concept of 'remainder'. When a number cannot be evenly divided by another, there is often a remainder. For example, when dividing 13 by 4, the quotient is 3, and the remainder is 1 because 3*4 is 12, and there is 1 left over.
+
+Another useful strategy is to know the multiplication tables well, as they can help you guess the quotient. For example, if you're dividing 45 by 5, knowing that 5*9 is 45 can help you quickly find the quotient.
+
+In conclusion, mental multiplication and division are valuable skills that can be improved with practice. They require a solid understanding of the properties of numbers and the ability to break down larger numbers into smaller, more manageable ones. By mastering these skills, you can perform calculations more quickly and efficiently in your head, enhancing your problem-solving abilities and logical thinking.

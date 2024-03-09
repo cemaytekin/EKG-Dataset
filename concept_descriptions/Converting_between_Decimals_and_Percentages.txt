@@ -1,0 +1,23 @@
+Understanding the conversion between decimals and percentages is a fundamental concept in mathematics. It is a topic that is often introduced in middle school and is used extensively in various fields, including finance, science, and statistics. This article aims to provide a comprehensive explanation of this topic.
+
+A decimal is a number system based on the number 10. It includes a decimal point and the number to the right of the decimal point represents a fraction of 10. On the other hand, a percentage is a way of expressing a number as a fraction of 100. It is denoted by the "%" symbol. 
+
+To convert a decimal to a percentage, you multiply the decimal by 100 and then add the percentage symbol. The reason for this is that 'per cent' means 'per hundred.' So, when you multiply by 100, you're essentially moving the decimal point two places to the right to get a number out of 100.
+
+For example, to convert the decimal 0.75 to a percentage, you multiply 0.75 by 100 to get 75. Therefore, 0.75 as a decimal is equivalent to 75% as a percentage.
+
+0.75 (decimal) x 100 = 75 (percentage)
+
+The process to convert a percentage to a decimal is just as straightforward, but it involves doing the opposite operation. Instead of multiplying by 100, you divide by 100 or move the decimal point two places to the left.
+
+For instance, to convert the percentage 45% to a decimal, you divide 45 by 100 to get 0.45. Therefore, 45% as a percentage is equivalent to 0.45 as a decimal.
+
+45 (percentage) ÷ 100 = 0.45 (decimal)
+
+It's important to remember that when you move the decimal point two places to the right or left, you're not actually changing the value of the number, just how it's represented.
+
+One common mistake people often make is forgetting to add or remove the percentage symbol when converting. If you're converting from a decimal to a percentage, you must add the percentage symbol to your answer. If you're converting from a percentage to a decimal, you must remove the percentage symbol from your original number before you start your calculation.
+
+Another common mistake is moving the decimal point the wrong way. A helpful tip to remember is that when you're converting from a decimal to a percentage, you're making the number bigger (since you're expressing it out of a larger number, 100), so you move the decimal point to the right. When you're converting from a percentage to a decimal, you're making the number smaller (since you're expressing it out of a smaller number, 1), so you move the decimal point to the left.
+
+In conclusion, understanding the conversion between decimals and percentages is crucial in many aspects of life, including calculating discounts, determining interest rates, and analyzing data. Remember, to convert a decimal to a percentage, multiply by 100 and add the "%" symbol. To convert a percentage to a decimal, divide by 100 or move the decimal point two places to the left. With practice, these conversions can become second nature.

@@ -1,0 +1,23 @@
+Angle facts with parallel lines is a fundamental concept in geometry that is used to determine the measures of angles in various scenarios. This topic is based on the postulates and theorems of geometry, namely the Parallel Line Postulate and the Alternate Interior Angles Theorem, among others. 
+
+Parallel lines are two or more lines that, no matter how far they extend, will never intersect or touch each other. They remain the same distance apart over their entire length. In a plane, these lines are often represented with arrows at each end to indicate that they extend indefinitely. 
+
+When a transversal, which is a line that intersects two or more lines at different points, crosses parallel lines, several angles are formed. These angles have specific relationships with each other, which are used to solve problems involving parallel lines and angles. 
+
+Firstly, corresponding angles are formed. These are angles in the same relative position at each intersection where a transversal crosses the parallel lines. For example, if you have two parallel lines cut by a transversal, the top left angle at the first intersection will be corresponding to the top left angle at the second intersection. These corresponding angles are always equal when the transversal line crosses parallel lines.
+
+Secondly, alternate interior angles are created. These are angles that are on opposite sides of the transversal but inside the parallel lines. They are also always equal. For instance, if you have a top right angle at the first intersection and a bottom left angle at the second intersection, these would be alternate interior angles. 
+
+Similarly, alternate exterior angles are also formed. These are angles that are on opposite sides of the transversal but outside the parallel lines. Like the alternate interior angles, these are also always equal.
+
+Additionally, consecutive (or co-interior) angles are formed. These are angles on the same side of the transversal and inside the parallel lines. Unlike the previous angle pairs, these angles are not equal. Instead, their measures add up to 180 degrees, which means they are supplementary. 
+
+Lastly, vertical angles are formed at each intersection of the transversal with the parallel lines. These are angles that are directly across from each other. Vertical angles are always equal, regardless of whether the lines are parallel or not.
+
+These facts about angles with parallel lines are crucial in many areas of mathematics and physics. They are used in proofs and problem-solving in geometry, in studying the properties of shapes, and in understanding the principles of perspective in art and design, among others. 
+
+Understanding these angle facts also provides a foundation for more advanced topics, such as trigonometry and calculus. These concepts are not only important for academic purposes but also have practical applications in various fields, including engineering, architecture, and computer graphics.
+
+To fully grasp these concepts, it is essential to study diagrams and engage in hands-on activities, such as drawing and measuring angles. Practice problems and real-life applications can also enhance understanding and make learning more meaningful. 
+
+In conclusion, angle facts with parallel lines are a fundamental part of geometry that provides a basis for understanding the relationships between lines and angles. By understanding these concepts, students can develop problem-solving skills and prepare for more advanced mathematical topics.

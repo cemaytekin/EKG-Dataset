@@ -1,0 +1,17 @@
+Angles in Polygons
+
+Polygons are two-dimensional geometric figures with straight sides. The term polygon comes from the Greek words for "many" and "angle". Angles in polygons are the spaces between the sides, where the sides meet at corner points. The study of angles in polygons is a fundamental aspect of geometry and is essential in various fields like architecture, engineering, and computer graphics.
+
+There are two types of angles in polygons: interior and exterior angles. An interior angle is the angle inside the polygon formed by two adjacent sides, while an exterior angle is the angle formed by a side and an extension of an adjacent side. The sum of these angles provides critical information about the polygon, and it varies depending on the number of sides the polygon has.
+
+Each polygon, irrespective of the number of sides, has a specific sum of its interior angles. This sum can be calculated using the formula (n-2) x 180°, where 'n' represents the number of sides. For instance, a triangle, which is a three-sided polygon, has an interior angle sum of 180°, while a square has an interior angle sum of 360°.
+
+On the other hand, the sum of the exterior angles of any polygon is always 360°, regardless of how many sides the polygon has. This is because the exterior angles of a polygon effectively 'rotate' around a point, and a full rotation measures 360°. Each individual exterior angle can be found by dividing 360° by the number of sides.
+
+The measure of each individual interior angle in a regular polygon (a polygon where all sides and angles are equal) can be found by dividing the sum of the interior angles by the number of sides. For example, in a regular pentagon (5 sides), each interior angle measures 108°.
+
+The understanding of angles in polygons also allows us to identify and classify different types of polygons. For instance, a polygon is considered convex if all its interior angles are less than 180°. If a polygon has one or more interior angles greater than 180°, it's considered concave.
+
+Moreover, the concept of angles in polygons is crucial in determining the tessellation of polygons. Tessellation refers to the arrangement of polygons in a plane without gaps or overlaps. Only regular polygons with certain interior angles can tessellate a plane on their own. For example, regular hexagons, squares, and equilateral triangles can tessellate a plane because their interior angles evenly divide 360°.
+
+In conclusion, the study of angles in polygons is a fundamental aspect of geometry. It aids in understanding the properties of different polygons, classifying them, and determining their tessellation. It's a concept that is not only theoretical but also has practical implications in various fields such as architecture, engineering, and computer graphics. Therefore, understanding angles in polygons is vital for anyone studying or working in these and many other fields.

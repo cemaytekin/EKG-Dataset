@@ -1,0 +1,21 @@
+Quadrilaterals, as the name implies, are geometric shapes with four sides (or edges) and four vertices (or corners). The properties of quadrilaterals are a fundamental topic in geometry, with a range of different types of quadrilaterals each having unique characteristics.
+
+A quadrilateral's properties are largely determined by the nature of its sides and angles. All quadrilaterals, irrespective of their type, have some properties in common. They have four sides, four vertices, and the sum of their interior angles always equals 360 degrees. The sum of the exterior angles of any polygon, including quadrilaterals, is always 360 degrees. 
+
+Quadrilaterals can be categorized into various types: parallelograms, rectangles, squares, rhombuses, trapezoids, and kites. Each of these types has distinct properties that set them apart from each other.
+
+Parallelogram: A parallelogram is a quadrilateral with both pairs of opposite sides parallel. In a parallelogram, opposite sides are equal in length, and opposite angles are equal. Also, the diagonals of a parallelogram bisect each other.
+
+Rectangle: A rectangle is a type of parallelogram where all four angles are equal to 90 degrees, making it a special case. In a rectangle, opposite sides are equal and all angles are right angles. Also, the diagonals of a rectangle are equal in length.
+
+Square: A square is a special type of rectangle where all four sides are equal in length. So, a square has all the properties of a rectangle, but with the added condition of equal sides. Also, the diagonals of a square are equal and they bisect each other at 90 degrees.
+
+Rhombus: A rhombus is another special type of parallelogram where all four sides are equal in length. In a rhombus, opposite angles are equal, and the diagonals bisect each other at right angles. However, unlike a square, not all angles in a rhombus are 90 degrees.
+
+Trapezoid: A trapezoid is a quadrilateral with at least one pair of parallel sides. In a trapezoid, the base angles are equal, and the diagonals are not equal but they divide each other proportionally.
+
+Kite: A kite is a quadrilateral with two pairs of adjacent sides that are equal. In a kite, one pair of opposite angles (the ones between the unequal sides) are equal, and one diagonal bisects the other at a right angle.
+
+In addition to these, there are more complex quadrilaterals like cyclic and tangential quadrilaterals. A cyclic quadrilateral is one where all four vertices lie on a single circle, while a tangential quadrilateral is one that has an inscribed circle that is tangent to all four sides.
+
+Understanding the properties of quadrilaterals is critical in various fields, including architecture, engineering, and graphic design. These properties are also fundamental to more advanced mathematical concepts, such as trigonometry and calculus. By studying quadrilaterals, we gain a deeper understanding of the spatial relationships that govern our world.

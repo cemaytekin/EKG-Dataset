@@ -1,0 +1,18 @@
+Adding and subtracting negative numbers might seem a bit confusing at first, but with a little understanding and practice, it can become quite straightforward. This topic is a fundamental aspect of mathematics that is used in various fields such as physics, economics, and computer science.
+
+When dealing with negative numbers, it's important to remember that they are simply numbers less than zero. They are represented by a minus (-) sign before the number. For example, -3, -10, -20 are all negative numbers. 
+
+The first concept to understand is adding negative numbers. When adding a negative number, it is equivalent to subtracting the absolute value of that number. The absolute value is the number without its sign. For example, if we add -3 to 5, it is equivalent to subtracting 3 from 5, which gives us 2. So, 5 + (-3) = 2. This works the same way for adding two negative numbers. If we add -3 and -2, it is equivalent to subtracting 3 and 2, which gives us -5. So, -3 + (-2) = -5. 
+
+Subtracting negative numbers is a little trickier. When you subtract a negative number, it is equivalent to adding the absolute value of that number. This is due to the concept that subtracting a negative is the same as going in the opposite direction, which in mathematical terms, means adding. For example, if we subtract -3 from 5, it is equivalent to adding 3 to 5, which gives us 8. So, 5 - (-3) = 8. Similarly, if we subtract -3 from -2, it is equivalent to adding 3 to -2, which gives us 1. So, -2 - (-3) = 1.
+
+Now, let's look at some rules to simplify the process of adding and subtracting negative numbers:
+
+1. Adding two negative numbers always gives a negative result. For example, -3 + -2 = -5.
+2. Subtracting a negative number from a positive number gives a positive result. For example, 3 - (-2) = 5.
+3. Subtracting a negative number from a negative number can give either a positive or a negative result, depending on the numbers' absolute values. For example, -3 - (-5) = 2, but -5 - (-3) = -2.
+4. Adding a negative number to a positive number can give either a positive or a negative result, depending on the numbers' absolute values. For example, 5 + (-3) = 2, but 3 + (-5) = -2.
+
+The number line is a useful tool for understanding these rules. Positive numbers are to the right of zero, and negative numbers are to the left. When adding a negative number, you move to the left on the number line. When subtracting a negative number, you move to the right.
+
+In conclusion, adding and subtracting negative numbers is not as complicated as it may initially seem. The key is to remember that adding a negative number is the same as subtracting its absolute value, and subtracting a negative number is the same as adding its absolute value. With these rules in mind and a bit of practice, you'll be able to handle negative numbers with ease.

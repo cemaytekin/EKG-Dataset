@@ -1,0 +1,23 @@
+Completing the square is a crucial algebraic method that is used to solve quadratic equations, graph quadratic functions, and evaluate integrals in calculus. It is a technique that transforms a quadratic equation from the standard form (ax^2 + bx + c = 0) into the vertex form (a(x-h)^2 + k = 0). This method is called 'completing the square' because it involves the addition of a constant term to the equation to make it a perfect square trinomial.
+
+The process of completing the square involves several steps. First, if the coefficient 'a' of the x^2 term is not 1, it is necessary to divide all terms in the equation by 'a' to make it 1. This step simplifies the process of completing the square. 
+
+Second, the 'c' term is moved to the other side of the equation to isolate the x terms. This is done by subtracting 'c' from both sides of the equation. 
+
+Third, the coefficient of the 'x' term, 'b', is halved and squared to find the value that completes the square. This value is then added to both sides of the equation to maintain the equation's balance. 
+
+Finally, the left side of the equation is rewritten as a binomial squared. This is done by taking the square root of the first term (x^2), keeping the sign of the second term (b/2), and squaring it. The right side of the equation is simplified by performing the operations.
+
+Let's consider an example to illustrate this process. Suppose we have the quadratic equation 2x^2 + 8x - 10 = 0.
+
+First, divide all terms by 2 to make the coefficient of x^2 equal to 1. This gives us x^2 + 4x - 5 = 0.
+
+Second, move the constant term to the other side of the equation by adding 5 to both sides. This results in x^2 + 4x = 5.
+
+Third, take half of the coefficient of x (which is 4), square it (which gives 4), and add this to both sides of the equation. This gives us x^2 + 4x + 4 = 5 + 4.
+
+Finally, rewrite the left side of the equation as (x + 2)^2 and simplify the right side to get (x + 2)^2 = 9. 
+
+The equation can now be solved by taking the square root of both sides, remembering to consider both the positive and negative roots. This gives us x + 2 = 3 or x + 2 = -3, leading to the solutions x = 1 or x = -5.
+
+In conclusion, completing the square is a powerful mathematical tool that allows us to solve quadratic equations, graph quadratic functions, and perform other mathematical operations. It is a technique that requires a good understanding of algebraic operations and the properties of square numbers. By mastering this method, one can tackle a wide range of mathematical problems with ease.

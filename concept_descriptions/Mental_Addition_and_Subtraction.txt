@@ -1,0 +1,15 @@
+Mental Addition and Subtraction is an integral part of basic arithmetic that forms the foundation of more complex mathematical concepts. It involves the ability to perform addition and subtraction operations in one's mind without the aid of calculators or written methods.
+
+The first step in mental addition is understanding the concept of place value. In our number system, each digit has a value depending on its position. For example, in the number 123, the digit 1 represents 100, 2 represents 20, and 3 represents 3. When adding numbers mentally, it is often helpful to break the numbers down according to their place values. For instance, if you are adding 123 and 456, you would add 100 and 400 to get 500, 20 and 50 to get 70, and 3 and 6 to get 9. The sum of these results gives you the answer, 579.
+
+Mental subtraction works on similar principles. However, instead of adding the place values, you subtract them. For example, if you're subtracting 456 from 123, you would subtract 400 from 100 to get -300, 50 from 20 to get -30, and 6 from 3 to get -3. Adding these results gives you the answer, -333. 
+
+A key aspect of mental addition and subtraction is the concept of 'carrying' and 'borrowing'. In mental addition, 'carrying' refers to the process where the sum of digits in a place value is more than ten, and the excess is added to the next higher place value. For example, when adding 58 and 67, the sum of 8 and 7 is 15. You write down the 5 and carry the 1 to the tens place, resulting in a sum of 125.
+
+In mental subtraction, 'borrowing' is used when the digit in the minuend (the number from which another number is to be subtracted) is smaller than the digit in the subtrahend (the number to be subtracted). For example, when subtracting 58 from 67, you cannot subtract 8 from 7. So, you borrow 1 from the tens place in 67, making it 57 and the 7 becomes 17. Now you can subtract 8 from 17 to get 9, and 5 from 5 to get 0, resulting in a difference of 9.
+
+Mental addition and subtraction operations can also be simplified through various strategies. One such strategy is the 'round and adjust' method. For instance, when adding 299 and 123, you can round 299 up to 300, add it to 123 to get 423, and then subtract the 1 that you added to round up 299, resulting in 422. Similarly, in subtraction, you can round up the subtrahend, subtract, and then adjust. 
+
+Another strategy involves using number facts and relationships. For example, if you know that 7 + 3 = 10, then you can easily figure out that 70 + 30 = 100, or 700 + 300 = 1000. Similarly, if you know that 10 - 7 = 3, then you can figure out that 100 - 70 = 30, or 1000 - 700 = 300.
+
+In conclusion, mental addition and subtraction are fundamental skills that are not only essential for academic success in mathematics but also for everyday life. They enable quick calculations, improve number sense, and are a stepping stone towards understanding more complex mathematical concepts. Mastering these skills requires understanding of place values, carrying and borrowing, and strategic use of various simplifying strategies.

@@ -1,0 +1,17 @@
+BIDMAS, also known as BODMAS, is an acronym used to help remember the order of operations in mathematics. This order of operations is crucial in ensuring that mathematical expressions are interpreted and calculated correctly. BIDMAS stands for Brackets, Indices, Division and Multiplication (from left to right), Addition and Subtraction (from left to right). 
+
+Let's delve deeper into each component of BIDMAS:
+
+1. Brackets: The first step in solving any mathematical equation is to solve the operations within brackets. This includes all forms of brackets such as round brackets (), square brackets [], and curly brackets {}. If there are nested brackets, you start with the innermost bracket and work your way outwards.
+
+2. Indices: The Indices (also known as orders or exponents) are tackled after brackets. An index refers to the power to which a number is raised. For example, in the expression 2^3, the number 2 is the base, and 3 is the index. This expression is read as "two raised to the power of three" and is equal to 2*2*2 = 8.
+
+3. Division and Multiplication: After dealing with brackets and indices, the next step in the BIDMAS order of operations is to perform any multiplication or division operations, moving from left to right. It's important to note that multiplication and division are of equal precedence, meaning that you should perform these operations in the order they appear from left to right. For example, in the equation 2 * 3 / 2, you would first do the multiplication (2*3=6), and then do the division (6/2=3).
+
+4. Addition and Subtraction: The final step in the BIDMAS order of operations is to perform any addition or subtraction operations, again moving from left to right. Like multiplication and division, addition and subtraction are of equal precedence. So, in the equation 3 + 2 - 1, you would first do the addition (3+2=5), and then do the subtraction (5-1=4).
+
+It's important to remember that BIDMAS is a universally accepted system for the order of operations in mathematics. This means that regardless of where you are in the world, the rules of BIDMAS apply. This universal acceptance ensures consistency in the interpretation and calculation of mathematical expressions.
+
+BIDMAS is not just a mathematical concept, but it is a fundamental principle that forms the backbone of arithmetic and algebra. It is used in every branch of mathematics, from the simplest sums to the most complex equations. Without BIDMAS, there would be ambiguity and inconsistency in the calculation of mathematical expressions.
+
+In conclusion, BIDMAS is a simple yet powerful tool that guides us in the correct sequence of operations to solve mathematical problems. By following BIDMAS, we can ensure that we always arrive at the correct and consistent solution. It is a fundamental concept that every student needs to understand and master, as it is used extensively in mathematics and beyond. Whether you're calculating a simple sum, solving a complex equation, or even programming a computer, BIDMAS is an essential guide to ensure the correct interpretation and calculation of mathematical expressions.

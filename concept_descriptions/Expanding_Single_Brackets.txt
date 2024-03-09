@@ -1,0 +1,21 @@
+Expanding Single Brackets, also known as the distributive property, is a fundamental concept in algebra. It is a method used to simplify expressions that contain brackets. It involves the multiplication of a single term on the outside of a bracket with each term inside the bracket. The process is crucial in solving equations, simplifying expressions, and factoring polynomials. 
+
+To understand the concept of expanding single brackets, it is important to have a good grasp of basic mathematical operations, particularly multiplication and addition. For instance, consider the expression 3(x + 2). To expand this, you multiply the term outside the bracket (3 in this case) by each term inside the bracket, i.e., x and 2. Thus, the expression becomes 3x + 6. 
+
+The process of expanding single brackets can be broken down into three main steps: 
+
+1. Identify the term outside the bracket: This is the term that you will multiply with each term inside the bracket. 
+
+2. Multiply the term outside the bracket with each term inside the bracket: Ensure to multiply the term outside the bracket with every term inside the bracket, one at a time. 
+
+3. Write down the result: After multiplying, write down the resulting expression. This is the expanded form of the original expression. 
+
+It's important to remember that when expanding single brackets, the sign of the term outside the bracket must be applied to each term inside the bracket. For example, in the expression -2(x - 3), the -2 multiplies both x and -3, resulting in -2x + 6. Notice that -2 multiplied by -3 gives a positive 6.
+
+Another crucial point to note is that when a bracket is preceded by a negative sign without a number, it is assumed to be -1. For example, -(x + 2) is the same as -1(x + 2), which expands to -x - 2.
+
+Expanding single brackets plays a significant role in solving algebraic equations. For instance, if you have an equation like 2(x + 3) = 10, you would first expand the bracket to get 2x + 6 = 10. From there, you can solve for x by subtracting 6 from both sides of the equation to get 2x = 4, and then dividing both sides by 2 to get x = 2.
+
+Furthermore, the concept of expanding single brackets is applicable in factoring polynomials. Factoring is the process of breaking down a polynomial into its simplest terms or factors. It is the reverse process of expanding brackets. For example, the expanded form of 2x + 6 is 2(x + 3), which is the factored form.
+
+In conclusion, understanding the concept of expanding single brackets is essential in learning algebra. It is a basic tool used to simplify complex expressions and solve equations. It requires knowledge of basic mathematical operations and careful attention to the signs of the terms involved. With consistent practice, expanding single brackets can become an automatic process that greatly simplifies the study of algebra.

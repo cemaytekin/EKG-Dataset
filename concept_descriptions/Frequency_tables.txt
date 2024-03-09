@@ -1,0 +1,17 @@
+Frequency tables are a statistical tool that displays the frequency of various outcomes in a sample. They provide a snapshot of the data allowing for a quick visual interpretation of the information. Frequency tables are an essential tool for data analysis and are often the first step in the data analysis process. 
+
+A frequency table is a method of organizing raw data in a compact form, by displaying a series of scores in ascending or descending order, together with their frequencies—the number of times each score was observed in the respective data set. For example, if you have a list of 100 test scores, a frequency table would list each unique test score and the number of students who achieved that score.
+
+Creating a frequency table is a straightforward process. The first step is to identify the different categories or ranges of data. Next, you tally the number of times each category or range appears in the data set. This tally is known as the frequency. The final step is to list the categories or ranges in one column of the table and the corresponding frequencies in another column. 
+
+There are several types of frequency tables. A simple frequency table, also known as an ungrouped frequency table, lists each individual outcome and the frequency of each outcome. A grouped frequency table, on the other hand, lists ranges of outcomes and the frequency of outcomes within each range. This type of table is useful when dealing with large data sets with many different outcomes. 
+
+Another type of frequency table is the relative frequency table, which not only shows the frequency of each outcome but also the proportion or percentage of the total that each outcome represents. This can be useful when comparing different data sets or when the total number of observations is significant.
+
+Frequency tables are useful for various reasons. They provide a simple way to visualize and understand large amounts of data. They can show patterns and trends in the data, and they can help identify outliers or unusual results. Frequency tables can also be used to calculate other statistical measures, such as mean, median, mode, and standard deviation.
+
+However, there are also limitations to using frequency tables. They can oversimplify data, which can lead to loss of specific details. They can also be misleading if the categories or ranges are not chosen carefully. For example, if the ranges are too wide, important variations within each range may be overlooked. If the ranges are too narrow, the table may become too complex and difficult to interpret.
+
+In conclusion, frequency tables are a fundamental tool in statistics and data analysis. They provide a simple and effective way to organize, summarize, and visualize data. However, like any statistical tool, they should be used with care and understanding, taking into consideration the nature of the data and the specific objectives of the analysis. 
+
+Whether you are a student, a researcher, a business analyst, or anyone who needs to make sense of large amounts of data, understanding how to create and interpret frequency tables is an essential skill. With practice and experience, you will be able to use frequency tables to reveal the stories hidden within your data.

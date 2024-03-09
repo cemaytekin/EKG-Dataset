@@ -1,0 +1,21 @@
+Plotting quadratics from tables of values is a mathematical process that involves graphing quadratic functions based on the given values in a table. This process is significant in the field of algebra, calculus, physics, and other mathematical and scientific disciplines. It helps in visualizing the relationship between variables and understanding the behavior of quadratic equations. 
+
+A quadratic function is a second-order polynomial function in a single variable x, with a standard form ax²+bx+c=0, where x represents an unknown, and a, b, and c are constants. Note that a ≠ 0. If a = 0, then the equation is linear, not quadratic. The graph of a quadratic function is a parabola that opens upward if a is positive and downward if a is negative. 
+
+To plot quadratics from tables of values, we first need to understand the table of values. A table of values is a chart that shows the input-output relationship of a function. In the context of a quadratic function, the table of values would consist of x-values (inputs) and corresponding y-values (outputs). The y-values are calculated by substitifying the x-values into the quadratic equation. 
+
+Here are the steps involved in plotting quadratics from tables of values:
+
+1. Identify the quadratic function: The first step in plotting quadratics from tables of values is identifying the quadratic function you are dealing with. This function should be in the form of y=ax²+bx+c.
+
+2. Create a table of values: The next step involves creating a table of values for the quadratic function. The table should include a list of x-values and their corresponding y-values. Select x-values and calculate the corresponding y-values by substituting the x-values into the quadratic equation. 
+
+3. Plot the points: Once the table of values is complete, the next step is to plot these points on a graph. The x-values are plotted along the horizontal axis, and the y-values are plotted along the vertical axis. Each (x, y) pair from the table represents a point in the Cartesian plane.
+
+4. Draw the parabola: After plotting the points, the next step is to draw a smooth curve (a parabola) that passes through all the plotted points. This curve represents the graph of the quadratic function.
+
+5. Analyze the graph: The final step involves analyzing the graph. The graph can provide valuable information about the quadratic function, such as the vertex (the highest or lowest point of the parabola), the axis of symmetry (the vertical line that cuts the parabola into two symmetrical halves), and the roots or zeros of the function (the x-values where the graph intersects the x-axis).
+
+One important thing to note is that the shape of the parabola (whether it opens upwards or downwards) is determined by the sign of the coefficient 'a'. If 'a' is positive, the parabola opens upwards, indicating that the function has a minimum value. If 'a' is negative, the parabola opens downwards, indicating that the function has a maximum value. 
+
+In conclusion, plotting quadratics from tables of values is a powerful tool that helps visualize and understand quadratic functions. It involves creating a table of values for the quadratic function, plotting these values on a graph, drawing a parabola through the plotted points, and analyzing the resulting graph. By mastering this process, one can gain a deeper understanding of the behavior of quadratic functions and their applications in various fields.

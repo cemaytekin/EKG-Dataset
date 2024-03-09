@@ -1,0 +1,23 @@
+A basic calculator is an essential tool that can perform simple arithmetic operations like addition, subtraction, multiplication, and division. It is a handy device that assists in solving mathematical problems quickly and accurately. The use of a basic calculator is prevalent in homes, schools, and businesses, proving its utility in everyday life.
+
+A basic calculator usually has a display screen, buttons for digits 0 to 9, operation buttons for addition (+), subtraction (-), multiplication (x or *), and division (÷ or /), and a button for equal (=) to get the result. Some calculators also include other buttons such as decimal point (.), plus/minus sign (+/-), and percentage (%). 
+
+To use a basic calculator, you first enter the number you wish to perform an operation on, followed by the operation button, and then the second number. After that, you press the equal button to get the result. For example, to add 5 and 3, you would press the buttons in this order: 5, +, 3, =. The display screen would show 8, the sum of 5 and 3.
+
+Subtraction works similarly. If you want to subtract 4 from 7, you would press: 7, -, 4, =. The display screen would show 3, which is the result of the subtraction. 
+
+For multiplication, if you want to multiply 6 by 2, you would press: 6, x, 2, =. The display screen would show 12, the product of 6 and 2. 
+
+Division is also done in the same way. To divide 10 by 2, you would press: 10, ÷, 2, =. The display screen would show 5, the quotient of 10 divided by 2.
+
+The decimal point button is used for operations involving decimal numbers. For instance, to add 2.5 and 3.5, you would press: 2, ., 5, +, 3, ., 5, =. The display screen would show 6, the sum of 2.5 and 3.5.
+
+The plus/minus button is used to change the sign of a number. If you have entered 5 and want to change it to -5, you would press: 5, +/-, and the display screen would show -5.
+
+The percentage button is used to calculate percentages. To find 20% of 50, you would press: 2, 0, %, of 50, =. The display screen would show 10, which is 20% of 50.
+
+It is important to remember that a basic calculator performs operations in the order they are entered, not according to the order of operations rule in mathematics (BIDMAS/BODMAS/PEDMAS). Therefore, for complex calculations involving multiple operations, it is recommended to do each operation separately or use a scientific calculator that follows the order of operations rule.
+
+A basic calculator is a user-friendly and practical tool. It is portable, affordable, and easy to use. It helps in performing quick calculations, saving time, and reducing the chances of errors that can occur with manual calculations. Whether it's for homework, budgeting, or business calculations, a basic calculator is a handy tool to have. 
+
+In conclusion, a basic calculator, despite its simplicity, is a versatile and indispensable tool. It is a perfect example of how technology can simplify our lives. By understanding how to use it effectively, we can ensure that we get the most out of this practical device.

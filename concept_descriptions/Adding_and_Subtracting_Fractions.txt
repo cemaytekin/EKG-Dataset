@@ -1,0 +1,25 @@
+Adding and Subtracting Fractions
+
+Fractions represent a part of a whole. They consist of two numbers: the numerator, which is the number above the line, and the denominator, which is the number below the line. The numerator represents the part that we have, while the denominator represents the total number of equal parts.
+
+Adding and subtracting fractions might seem complicated at first, but once you understand the basic concept, it becomes quite straightforward. Let's delve into the details of this topic.
+
+Adding Fractions
+
+The key to adding fractions is the denominator. If the fractions that you are adding have the same denominator, the process is quite simple. You just add the numerators and keep the denominator the same. For example, if you're adding 1/4 and 2/4, you simply add the numerators 1 and 2 to get 3, while the denominator remains 4. So, 1/4 + 2/4 = 3/4.
+
+However, if the denominators are not the same, you need to find a common denominator before you can add the fractions. The common denominator is the least common multiple of the two denominators. For example, if you're adding 1/4 and 1/6, the least common multiple of 4 and 6 is 12. Therefore, you need to convert both fractions to have 12 as the denominator. 
+
+To do this, multiply the numerator and denominator of the first fraction by 3 (because 4 times 3 equals 12) to get 3/12. Similarly, multiply the numerator and denominator of the second fraction by 2 (because 6 times 2 equals 12) to get 2/12. Now, you can add the fractions: 3/12 + 2/12 = 5/12.
+
+Subtracting Fractions
+
+Subtracting fractions involves a similar process to adding fractions. If the fractions have the same denominator, you simply subtract the numerators and keep the denominator the same. For example, if you're subtracting 2/5 from 3/5, you subtract the numerators 2 from 3 to get 1, while the denominator remains 5. So, 3/5 - 2/5 = 1/5.
+
+If the denominators are not the same, you need to find a common denominator, just like when adding fractions. Let's say you're subtracting 1/6 from 1/4. The least common multiple of 4 and 6 is 12, so you convert both fractions to have 12 as the denominator. 
+
+Multiply the numerator and denominator of the first fraction by 3 to get 3/12 and the numerator and denominator of the second fraction by 2 to get 2/12. Now, you can subtract the fractions: 3/12 - 2/12 = 1/12.
+
+In summary, the key to adding and subtracting fractions is finding a common denominator if the denominators are not the same. Once the fractions have the same denominator, you simply add or subtract the numerators as needed. It's also important to simplify your answer if possible. For example, if you end up with a fraction like 4/8, you can simplify it to 1/2 by dividing both the numerator and denominator by their greatest common factor, which in this case is 4. 
+
+Understanding how to add and subtract fractions is a fundamental math skill that's essential for more advanced math concepts. With practice, you'll find it becomes second nature. Remember, the key is in the denominator!
